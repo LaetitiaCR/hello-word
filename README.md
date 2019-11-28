@@ -1,2 +1,2 @@
 # hello-word
-My firstt repository
+My first repository
